@@ -1,3 +1,4 @@
+ASSESSOR_NAME       = "Naoto Yamaguchi"
 CODING_RULE         = "https://systemd.io/CODING_STYLE/"
 CONTRIBUTION_RULE   = "https://systemd.io/CONTRIBUTING/"
 RELEASE_RULE        = "https://github.com/systemd/systemd/tags"

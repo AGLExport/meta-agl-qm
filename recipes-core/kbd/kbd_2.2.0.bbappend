@@ -1,3 +1,4 @@
+ASSESSOR_NAME       = "Naoto Yamaguchi"
 CODING_RULE         = "https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git/tree/docs/process/howto-contribute.md"
 CONTRIBUTION_RULE   = "https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git/tree/docs/process/howto-contribute.md"
 RELEASE_RULE        = "https://git.kernel.org/pub/scm/linux/kernel/git/legion/kbd.git/refs/tags"
