@@ -9,4 +9,6 @@ USED_IN             = "TBD"
 ACTIVE_CONTRIBUTORS = "https://github.com/legionus/kbd/graphs/contributors"
 OIN_LIST            = "1167@Table10"
 
+ASSED_PV            = "2.2.0"
+
 inherit assesment
